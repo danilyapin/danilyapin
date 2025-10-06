@@ -79,6 +79,6 @@ Ich lege Wert auf **sauberen Code, Testabdeckung und Teamarbeit**, um qualitativ
 
 <div align="center">
 
-✨ _Danke, dass du mein Profil besuchst!_ ✨  
+_Danke, dass du mein Profil besuchst!_ 
 
 </div>
