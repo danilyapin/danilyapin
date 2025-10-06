@@ -63,7 +63,7 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 🔗 Repository-Link: [Webseite](https://github.com/danilyapin/Webseite)
 
 🧩 **Gruppenprojekt (Ausbildung)** – *Puzzle Solver*  
-> Teamprojekt zur Lösung von Puzzle-Algorithmen in Java  
+> Teamprojekt zur Lösung von Puzzle-Algorithmen in Django  
 🔗 Repository-Link: [PuzzleSolver](https://github.com/danilyapin/LF12_PuzzleSolver)  
 
 ---
