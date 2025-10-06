@@ -8,19 +8,21 @@
 🎓 Bootcamp-Background (Neue Fische, Abschluss: 11/2025)  
 💬 Java • Spring Boot • REST APIs • TypeScript • React • Postman  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lyapin/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielLyapin)
+[![E-Mail](https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deine.email@example.com)
+
 ---
 
 </div>
 
 ## 🚀 Über mich  
 
-Ich befinde mich aktuell in einem intensiven Bootcamp bei **Neue Fische**, das ich im **November 2025** abschließen werde.  
-Mein Ziel ist es, sowohl meine praktischen als auch theoretischen Kenntnisse in der Softwareentwicklung zu vertiefen.  
+Während meiner Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** konnte ich bereits praktische Erfahrung mit **Java** sammeln sowie erste Projekte mit **Spring** und **React** umsetzen.  
+Mein Bootcamp bei **Neue Fische** diente dazu, meine Kenntnisse zu vertiefen, insbesondere in **Backend-Architekturen, TypeScript** und modernen **Frontend-Technologien**.  
 
-Meine Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** bildet die solide Grundlage meiner technischen Expertise.  
-
-In meinen bisherigen Projekten lag mein Fokus auf der **Backend-Entwicklung mit Java**, der **Frontend-Entwicklung mit React/TypeScript** sowie auf **REST-API-Design und -Implementierung**.  
-Ich habe Erfahrung mit **Datenbanken (MySQL, MongoDB)** und kenne Tools wie **Git, Docker, IntelliJ IDEA** und **Postman** für API-Tests.  
+In meinen Projekten arbeite ich sowohl an **Frontend- als auch Backend-Lösungen**, gestalte REST-APIs und setze sie in Java/Spring oder React/TypeScript um.  
+Zusätzlich nutze ich **Datenbanken (MySQL, MongoDB)** und Tools wie **Git, Docker, IntelliJ IDEA** und **Postman** für Tests und Deployment.
 
 ---
 
@@ -47,20 +49,24 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 🔗 Repository-Link: _folgt_  
 
 🏗️ **Gruppenprojekt (Neue Fische)** – *Warehouse-Verwaltungssystem*  
-> Software zur Bestandsverwaltung eines Ladens, inkl. Bestandsübersicht, Lagerverwaltung und Nutzerrollen  
+> In Arbeit – Veröffentlichung folgt  
 🔗 Repository-Link: _folgt_  
 
 📝 **Eigenständiges Projekt (Privat)** – *ToDo-List Frontend*  
-> Eine moderne, responsive ToDo-App mit React/TypeScript für Aufgabenverwaltung und Priorisierung  
+> React/TypeScript-App mit MaterialUI für Aufgabenverwaltung  
 🔗 Repository-Link: [Frontend](https://github.com/danilyapin/ToDo-List-Frontend)  
 
 📝 **Eigenständiges Projekt (Privat)** – *ToDo-List Backend*  
-> REST-API für die ToDo-App mit Java/Spring Boot, inklusive Datenbankanbindung, CRUD-Funktionalitäten und Sicherheitsfeatures  
+> Java/Spring Boot REST-API mit Datenbankanbindung und CRUD-Funktionalitäten  
 🔗 Repository-Link: [Backend](https://github.com/danilyapin/ToDo-List-Backend)  
 
 🎯 **Projektarbeit (Ausbildung)** – *Webseite zur Verwaltung und Vermietung von Mietgeräten*  
-> Eigenständige Umsetzung einer Webseite zur effizienten Verwaltung und Vermietung von Geräten, inkl. Nutzerverwaltung und Buchungsfunktionen  
-🔗 Repository-Link: [Webseite](https://github.com/danilyapin/Webseite)  
+> Eigenständige Umsetzung einer Webseite inkl. Buchungsfunktionen und Nutzerverwaltung  
+🔗 Repository-Link: [Webseite](https://github.com/danilyapin/Webseite)
+
+🧩 **Gruppenprojekt (Ausbildung)** – *Puzzle Solver*  
+> Teamprojekt zur Lösung von Puzzle-Algorithmen in Java  
+🔗 Repository-Link: [PuzzleSolver](https://github.com/danilyapin/LF12_PuzzleSolver)  
 
 ---
 
@@ -68,38 +74,12 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 
 Ich möchte meine Kenntnisse und Erfahrungen in einem **professionellen Umfeld weiterentwickeln** und aktiv an Projekten mitarbeiten, die **innovative Softwarelösungen** schaffen.  
 
-Meine Stärke liegt in der **Java-Backend-Entwicklung**, gleichzeitig arbeite ich kontinuierlich daran, meine Fähigkeiten in **Frontend-Technologien, DevOps und API-Design** auszubauen.  
+Meine Stärke liegt in der **Java-Backend-Entwicklung**, gleichzeitig arbeite ich kontinuierlich daran, meine Fähigkeiten in **Frontend-Technologien, DevOps, API-Design** und modernen **React-Lösungen** auszubauen.  
 Ich lege Wert auf **sauberen Code, Testabdeckung und Teamarbeit**, um qualitativ hochwertige Software zu liefern.  
 
 ---
 
-## 🤝 Kontakt & Vernetzung  
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/daniel-lyapin/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:deine.email@example.com">
-  <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"/>
-</a>
-&nbsp;
-<a href="https://github.com/DanielLyapin">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-📈  
-![Daniel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielLyapin&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLyapin&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ✨ _Danke, dass du mein Profil besuchst!_ ✨  
 
