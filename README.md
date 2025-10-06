@@ -59,7 +59,7 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 🔗 Repository-Link: [Backend](https://github.com/danilyapin/ToDo-List-Backend)  
 
 🎯 **Projektarbeit (Ausbildung)** – *Webseite zur Verwaltung und Vermietung von Mietgeräten*  
-> Eigenständige Umsetzung einer Webseite inkl. Buchungsfunktionen und Nutzerverwaltung  
+> Eigenständige Umsetzung einer Webseite inkl. Buchungsbestätigung per E-Mail und Register/Login-System
 🔗 Repository-Link: [Webseite](https://github.com/danilyapin/Webseite)
 
 🧩 **Gruppenprojekt (Ausbildung)** – *Puzzle Solver*  
