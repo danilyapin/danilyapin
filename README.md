@@ -9,8 +9,7 @@
 💬 Java • Spring Boot • REST APIs • TypeScript • React • Postman  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lyapin/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielLyapin)
-[![E-Mail](https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deine.email@example.com)
+[![E-Mail](https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danilyapin17@gmail.com)
 
 ---
 
