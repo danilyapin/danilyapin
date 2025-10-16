@@ -46,10 +46,6 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 > In Arbeit – Veröffentlichung folgt  
 🔗 Repository-Link: _folgt_  
 
-🏗️ **Gruppenprojekt (Neue Fische)** – *Warehouse-Verwaltungssystem*  
-> In Arbeit – Veröffentlichung folgt  
-🔗 Repository-Link: _folgt_  
-
 📝 **Eigenständiges Projekt (Privat)** – *ToDo-List Frontend*  
 > React-App mit MaterialUI für Aufgabenverwaltung  
 🔗 Repository-Link: [Frontend](https://github.com/danilyapin/ToDo-List-Frontend)  
