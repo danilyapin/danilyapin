@@ -59,7 +59,8 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 
 🎯 **Projektarbeit (Ausbildung)** – *Webseite zur Verwaltung und Vermietung von Mietgeräten*  
 > Eigenständige Umsetzung einer Webseite inkl. Buchungsbestätigung per E-Mail und Register/Login-System
-🔗 Repository-Link: [Webseite](https://github.com/danilyapin/Webseite)
+>
+> 🔗Repository-Link: [Webseite](https://github.com/danilyapin/Webseite)
 
 
 🧩 **Gruppenprojekt (Ausbildung)** – *Puzzle Solver*  
