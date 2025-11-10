@@ -44,7 +44,7 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 
 📘 **Abschlussprojekt (Neue Fische)**  
 > In Arbeit – Veröffentlichung folgt  
-🔗 Repository-Link: _folgt_  
+🔗 Repository-Link: [Personal-Banking-Dashboard](https://github.com/danilyapin/Personal-Banking-Dashboard)
 
 📝 **Eigenständiges Projekt (Privat)** – *ToDo-List Frontend*  
 > React-App mit MaterialUI für Aufgabenverwaltung  
