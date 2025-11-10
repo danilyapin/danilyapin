@@ -1,11 +1,14 @@
 <div align="center">
   
 # 👨‍💻 Daniel Lyapin  
-### _Softwareentwickler – Fokus auf Java & Backend-Systeme_  
+### _Softwareentwickler – Fokus auf Java und Backend-Systeme_  
 
-📍 Langenhagen, Deutschland  
+📍 Langenhagen, Deutschland
+
 🎓 Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** (08/2022 - 05/2025)  
+
 🎓 Bootcamp-Background (Neue Fische, Abschluss: 11/2025)  
+
 💬 Java • Spring Boot • REST APIs • TypeScript • React • Postman  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lyapin/) 
