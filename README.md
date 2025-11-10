@@ -14,7 +14,7 @@
 
 </div>
 
-## 🚀 Über mich  
+## Über mich  
 
 Während meiner Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** konnte ich bereits praktische Erfahrung mit **Java** sammeln sowie erste Projekte mit **Spring** und **React** umsetzen.  
 Mein Bootcamp bei **Neue Fische** diente dazu, meine Kenntnisse zu vertiefen, insbesondere in **Backend-Architekturen, TypeScript** und modernen **Frontend-Technologien**.  
@@ -24,7 +24,7 @@ Zusätzlich nutze ich **Datenbanken (MySQL, MongoDB)** und Tools wie **Git, Dock
 
 ---
 
-## 🧰 Meine Werkzeuge & Skills  
+## Meine Werkzeuge und Skills  
 
 💻 **Programmiersprachen:**  
 ☕ Java | 🟦 TypeScript  
@@ -40,7 +40,7 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 
 ---
 
-## 🌟 Projekte  
+## Projekte  
 
 📘 **Abschlussprojekt (Neue Fische)**  
 > In Arbeit – Veröffentlichung folgt  
@@ -64,7 +64,7 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 
 ---
 
-## 🎯 Ziel & Motivation  
+## 🎯 Ziel und Motivation  
 
 Ich möchte meine Kenntnisse und Erfahrungen in einem **professionellen Umfeld weiterentwickeln** und aktiv an Projekten mitarbeiten, die **innovative Softwarelösungen** schaffen.  
 
