@@ -29,13 +29,13 @@ Zusätzlich nutze ich **Datenbanken (MySQL, MongoDB)** und Tools wie **Git, Dock
 💻 **Programmiersprachen:**  
 ☕ Java | 🟦 TypeScript  
 
-⚙️ **Frameworks & Libraries:**  
+⚙️ **Frameworks und Libraries:**  
 Spring Boot | React  
 
 🗄️ **Datenbanken:**  
 MySQL | MongoDB  
 
-🛠️ **Tools & Methoden:**  
+🛠️ **Tools und Methoden:**  
 Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Driven Development (TDD) | Agile Methoden  
 
 ---
@@ -64,7 +64,7 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 
 ---
 
-## 🎯 Ziel und Motivation  
+## Ziel und Motivation  
 
 Ich möchte meine Kenntnisse und Erfahrungen in einem **professionellen Umfeld weiterentwickeln** und aktiv an Projekten mitarbeiten, die **innovative Softwarelösungen** schaffen.  
 
