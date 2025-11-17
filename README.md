@@ -7,7 +7,7 @@
 
 🎓 Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** (08/2022 - 07/2025)  
 
-🎓 Bootcamp-Background (Neue Fische, Abschluss: 11/2025)  
+🎓 Bootcamp-Background (Neue Fische, 08/2025 - 11/2025)  
 
 💬 Java • Spring Boot • REST APIs • TypeScript • React • Postman  
 
