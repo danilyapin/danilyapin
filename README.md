@@ -46,7 +46,7 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 ## Projekte  
 
 📘 **Abschlussprojekt (Neue Fische)**  
-> In Arbeit – Veröffentlichung folgt  
+> Fullstack-Webanwendung zur Verwaltung persönlicher Finanzen mit Konten-, Transaktions- und Statistikübersicht  
 🔗 Repository-Link: [Personal-Banking-Dashboard](https://github.com/danilyapin/Personal-Banking-Dashboard)
 
 📝 **Eigenständiges Projekt (Privat)** – *ToDo-List Frontend*  
