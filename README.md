@@ -51,7 +51,7 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 
 📝 **Eigenständiges Projekt (Privat)** – *ToDo-List Frontend*  
 > React-App mit MaterialUI für Aufgabenverwaltung  
-🔗 Repository-Link: [Frontend](https://github.com/danilyapin/ToDo-List-Frontend)  
+🔗 Repository-Link: [Frontend](https://github.com/danilyapin/ToDo-List-Frontend-)  
 
 📝 **Eigenständiges Projekt (Privat)** – *ToDo-List Backend*  
 > Java/Spring Boot REST-API mit Datenbankanbindung und CRUD-Funktionalitäten  
