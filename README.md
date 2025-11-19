@@ -19,11 +19,9 @@
 
 ## Über mich  
 
-Während meiner Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** konnte ich bereits praktische Erfahrung mit **Java** sammeln sowie erste Projekte mit **Spring** und **React** umsetzen.  
-Mein Bootcamp bei **Neue Fische** diente dazu, meine Kenntnisse zu vertiefen, insbesondere in **Backend-Architekturen, TypeScript** und modernen **Frontend-Technologien**.  
+Mein Fokus liegt auf der **Backend-Entwicklung mit Java und Spring Boot**, wo ich robuste, skalierbare und wartbare Softwarelösungen umsetzen kann. Gleichzeitig bringe ich Erfahrung im **Frontend mit React und TypeScript** mit, sodass ich auch **Full-Stack-Anwendungen** realisieren und Schnittstellen zwischen Backend und Benutzeroberfläche effizient gestalten kann.
 
-In meinen Projekten arbeite ich sowohl an **Frontend- als auch Backend-Lösungen**, gestalte REST-APIs und setze sie in Java/Spring oder React/TypeScript um.  
-Zusätzlich nutze ich **Datenbanken (MySQL, MongoDB)** und Tools wie **Git, Docker, IntelliJ IDEA** und **Postman** für Tests und Deployment.
+Ich möchte meine Kenntnisse in einem **professionellen Umfeld weiter vertiefen**, praxisnah an Projekten mitarbeiten und dabei moderne Software-Architekturen, DevOps-Methoden und sauberes API-Design anwenden. Besonderen Wert lege ich auf **Clean Code, Testabdeckung und Teamarbeit**, um qualitativ hochwertige und nutzerfreundliche Software zu entwickeln.
 
 ---
 
@@ -71,10 +69,9 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 
 ## Ziel und Motivation  
 
-Ich möchte meine Kenntnisse und Erfahrungen in einem **professionellen Umfeld weiterentwickeln** und aktiv an Projekten mitarbeiten, die **innovative Softwarelösungen** schaffen.  
+Mein Fokus liegt auf der Backend-Entwicklung mit Java und Spring Boot, wo ich robuste, skalierbare und wartbare Softwarelösungen umsetzen kann. Gleichzeitig bringe ich Erfahrung im Frontend mit React und TypeScript mit, sodass ich auch Full-Stack-Anwendungen realisieren und Schnittstellen zwischen Backend und Benutzeroberfläche effizient gestalten kann.
 
-Meine Stärke liegt in der **Java-Backend-Entwicklung**, gleichzeitig arbeite ich kontinuierlich daran, meine Fähigkeiten in **Frontend-Technologien, DevOps, API-Design** und modernen **React-Lösungen** auszubauen.  
-Ich lege Wert auf **sauberen Code, Testabdeckung und Teamarbeit**, um qualitativ hochwertige Software zu liefern.  
+Ich möchte meine Kenntnisse in einem professionellen Umfeld weiter vertiefen, praxisnah an Projekten mitarbeiten und dabei moderne Software-Architekturen, DevOps-Methoden und sauberes API-Design anwenden. Besonderen Wert lege ich auf Clean Code, Testabdeckung und Teamarbeit, um qualitativ hochwertige und nutzerfreundliche Software zu entwickeln.
 
 ---
 
