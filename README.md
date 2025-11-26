@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👨‍💻 Daniel Lyapin  
-### _Softwareentwickler – Fokus auf Java und Backend-Systeme_  
+### _Softwareentwickler mit Erfahrung in Java, Spring Boot, REST APIs, MySQL, MongoDB, React & TypeScript_  
 
 📍 Langenhagen, Deutschland
 
