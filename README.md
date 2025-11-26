@@ -19,9 +19,11 @@
 
 ## Über mich  
 
-Mein Fokus liegt auf der Backend-Entwicklung mit Java und Spring Boot, wo ich robuste, skalierbare und wartbare Softwarelösungen umsetzen kann. Gleichzeitig bringe ich Erfahrung im Frontend mit React und TypeScript mit, sodass ich auch Full-Stack-Anwendungen realisieren und Schnittstellen zwischen Backend und Benutzeroberfläche effizient gestalten kann.
+Ich bin Softwareentwickler mit umfassender Erfahrung in Java, Spring Boot, REST APIs, MySQL, MongoDB, React und TypeScript. Ich entwickle sowohl Backend als auch Full-Stack-Anwendungen, gestalte APIs, Datenbanken und Benutzeroberflächen effizient und praxisnah.
 
-Ich möchte meine Kenntnisse in einem professionellen Umfeld weiter vertiefen, praxisnah an Projekten mitarbeiten und dabei moderne Software-Architekturen, DevOps-Methoden und sauberes API-Design anwenden. Besonderen Wert lege ich auf Clean Code, Testabdeckung und Teamarbeit, um qualitativ hochwertige und nutzerfreundliche Software zu entwickeln.
+Ich bringe Erfahrung aus verschiedenen Projekten mit, von kleineren Eigenentwicklungen bis zu umfangreichen Webanwendungen, und setze mein Wissen gezielt ein, um robuste, wartbare und nutzerfreundliche Software zu liefern.
+
+Ich arbeite strukturiert, lerne schnell und übernehme Verantwortung, um in jedem Projekt echten Mehrwert zu schaffen.
 
 ---
 
