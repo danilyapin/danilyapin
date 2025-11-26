@@ -19,9 +19,9 @@
 
 ## Über mich  
 
-Ich bin Softwareentwickler mit umfassender Erfahrung in Java, Spring Boot, REST APIs, MySQL, MongoDB, React und TypeScript. Ich entwickle sowohl Backend als auch Full-Stack-Anwendungen, gestalte APIs, Datenbanken und Benutzeroberflächen effizient und praxisnah.
+Ich bin Softwareentwickler mit Kenntnissen in Java, Spring Boot, REST APIs, MySQL, MongoDB, React und TypeScript. Ich entwickle sowohl Backend- als auch Full-Stack-Anwendungen und gestalte APIs, Datenbanken und Benutzeroberflächen effizient und praxisnah.
 
-Ich bringe Erfahrung aus verschiedenen Projekten mit, von kleineren Eigenentwicklungen bis zu umfangreichen Webanwendungen, und setze mein Wissen gezielt ein, um robuste, wartbare und nutzerfreundliche Software zu liefern.
+Ich bringe Erfahrung aus unterschiedlichen Projekten mit, von kleineren Eigenentwicklungen bis hin zu umfangreichen Webanwendungen, und setze mein Wissen gezielt ein, um robuste, wartbare und nutzerfreundliche Software zu liefern.
 
 Ich arbeite strukturiert, lerne schnell und übernehme Verantwortung, um in jedem Projekt echten Mehrwert zu schaffen.
 
