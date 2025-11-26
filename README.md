@@ -65,15 +65,7 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 
 🧩 **Gruppenprojekt (Ausbildung)** – *Puzzle Solver*  
 > Teamprojekt zur Lösung von Puzzle-Algorithmen in Django  
-🔗 Repository-Link: [PuzzleSolver](https://github.com/danilyapin/LF12_PuzzleSolver)  
-
----
-
-## Ziel und Motivation  
-
-Mein Fokus liegt auf der Backend-Entwicklung mit Java und Spring Boot, wo ich robuste, skalierbare und wartbare Softwarelösungen umsetzen kann. Gleichzeitig bringe ich Erfahrung im Frontend mit React und JavaScript/TypeScript mit, sodass ich auch Full-Stack-Anwendungen realisieren und Schnittstellen zwischen Backend und Benutzeroberfläche effizient gestalten kann.
-
-Ich möchte meine Kenntnisse in einem professionellen Umfeld weiter vertiefen, praxisnah an Projekten mitarbeiten und dabei moderne Software-Architekturen, DevOps-Methoden und sauberes API-Design anwenden. Besonderen Wert lege ich auf Clean Code, Testabdeckung und Teamarbeit, um qualitativ hochwertige und nutzerfreundliche Software zu entwickeln.
+🔗 Repository-Link: [PuzzleSolver](https://github.com/danilyapin/LF12_PuzzleSolver)
 
 ---
 
