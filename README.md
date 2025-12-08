@@ -23,7 +23,7 @@ Ich bin Softwareentwickler mit Erfahrung in Java, Spring Boot, REST APIs, MySQL,
 
 Ich bringe Erfahrung aus unterschiedlichen Projekten mit, von kleineren Eigenentwicklungen bis hin zu umfangreichen Webanwendungen, und setze mein Wissen gezielt ein, um robuste, wartbare und nutzerfreundliche Software zu liefern.
 
-Ich hab egrundlegende Kenntnisse in Docker und CI/CD, arbeite strukturiert, lerne schnell und übernehme Verantwortung.
+Ich habe grundlegende Kenntnisse in Docker und CI/CD, arbeite strukturiert, lerne schnell und übernehme Verantwortung.
 
 ---
 
