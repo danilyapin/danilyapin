@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👨‍💻 Daniel Lyapin  
-### _Softwareentwickler mit Erfahrung in Java, Spring Boot, REST APIs, MySQL, MongoDB, React und TypeScript/JavaScirpt_  
+### _Softwareentwickler mit Erfahrung in Java, Spring Boot, REST APIs, MySQL, MongoDB, React und TypeScript/JavaScript_  
 
 📍 Langenhagen, Deutschland
 
