@@ -53,15 +53,10 @@ Git | GitHub | Docker | IntelliJ IDEA | Postman | Test-Drive
 > React-App mit MaterialUI für Aufgabenverwaltung  
 🔗 Repository-Link: [Frontend](https://github.com/danilyapin/ToDo-List-Frontend-)  
 
-📝 **Eigenständiges Projekt (Privat)** – *ToDo-List Backend*  
-> Java/Spring Boot REST-API mit Datenbankanbindung und CRUD-Funktionalitäten  
-🔗 Repository-Link: [Backend](https://github.com/danilyapin/ToDo-List-Backend)  
-
 🎯 **Projektarbeit (Ausbildung)** – *Webseite zur Verwaltung und Vermietung von Mietgeräten*  
 > Eigenständige Umsetzung einer Webseite inkl. Buchungsbestätigung per E-Mail und Register/Login-System
 >
 > 🔗Repository-Link: [Webseite](https://github.com/danilyapin/Webseite)
-
 
 🧩 **Gruppenprojekt (Ausbildung)** – *Puzzle Solver*  
 > Teamprojekt zur Lösung von Puzzle-Algorithmen in Django  
